@@ -51,4 +51,4 @@ SMOTEENN(SMOTE + 이웃 정리)이 이론적으로는 더 정교한 기법이지
 ## 🔗 Related Project
 
 웨이퍼 불량 패턴 시각화 및 FDC 관점 해석 도구는 별도 레포에서 확인하실 수 있습니다.
-👉 [wafer-defect-visualization](https://hyunsle.github.io/wafer-defect-visualization/scatter_matrix.html)
+👉 [wafer-defect-visualization](https://hyunsle.github.io/wafer-defect-visualization)
